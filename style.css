@@ -1,4 +1,4 @@
-.wrapper1 {
+.wrapper1 { /* style design for header */
   margin: 0px;
   width: normalize;
   height: 120px;
@@ -8,19 +8,19 @@
   padding: 10px;
 }
 
-h1 {
+h1 { /* style design for name */
   font-family: cursive;
   font-size: 58px;
   margin: 10px 0px 0px 0px;
 }
 
-h2 {
+h2 { /* style design for /* style design for work position */
   font-size: 16px;
   font-family: Times 'Times New Roman', Times, serif;
   margin: 0px;
 }
 
-.wrapper2 {
+.wrapper2 { /* style design for body and article */
   padding: 50px 30%;
   align-content: center;
   text-align: center;
@@ -28,7 +28,7 @@ h2 {
   color: #373531;
 }
 
-footer {
+footer { /* style design for footer */
   height: normalize;
   width: normalize;
   background-color: #373531;
@@ -37,15 +37,16 @@ footer {
   padding: 10px;
 }
 
-.unordered {
+.unordered { /* style design to center unordered list */
   padding: 0px 30%; 
   text-align: left;
 }
 
-.ordered {
+.ordered { /* style design to center ordered list */
   padding: 0px 41.5%;
 }
 
+/* style design of all links on site */
 a:link    { color: blue;}
 a:visited { color: blueviolet;}
 a:hover   { color: red;}
