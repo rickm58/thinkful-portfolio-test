@@ -46,6 +46,11 @@ footer {
   padding: 0px 41.5%;
 }
 
+a:link    { color: blue;}
+a:visited { color: blueviolet;}
+a:hover   { color: red;}
+a:active  { color: black;}
+
 
 
 
